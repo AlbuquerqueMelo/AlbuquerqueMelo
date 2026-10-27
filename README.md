@@ -1,7 +1,7 @@
 <h1 align="center">Mello</h1>
 
 <p align="center">
-  <i>Computer Networks student and Linux enthusiast</i>
+  <i>Computer Networks student, Linux enthusiast and old games/anime admirer</i>
 </p>
 
 <p align="center">
