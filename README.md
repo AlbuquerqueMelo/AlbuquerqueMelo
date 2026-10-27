@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm YOUR NAME 👋</h1>
+<h1 align="center">Mello</h1>
 
 <p align="center">
-  <i>One-line tagline: what you do or what you're into.</i>
+  <i>Computer Networks student and Linux enthusiast</i>
 </p>
 
 <p align="center">
@@ -11,28 +11,26 @@
 
 ---
 
-### 🔭 What I'm up to
-- 🛠️ Currently building: **PROJECT NAME**, short description
-- 📚 Currently learning: **TOPIC**
-- 🤝 Open to collaborating on: **TOPIC**
-- 💬 Ask me about: **TOPIC 1, TOPIC 2**
-
-### 🧰 Tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### Tech stack
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Half-Life](https://img.shields.io/badge/Half--Life-F58B00?style=for-the-badge&logoColor=black&labelColor=black)
+![GoldSrc](https://img.shields.io/badge/GoldSrc-FF9900?style=for-the-badge)
+![Modding](https://img.shields.io/badge/Modding-F58B00?style=for-the-badge&logo=steam&logoColor=white)
 
-### 📌 Highlights
-- [**Project 1**](link): what it does in one line
-- [**Project 2**](link): what it does in one line
-
-### 📊 Stats
+### Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight" />
 </p>
-
-### 📫 Find me
-[![Website](https://img.shields.io/badge/Website-000?style=flat&logo=firefox&logoColor=white)](https://yoursite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/you)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USERNAME&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME&theme=tokyonight" height="150" />
+</p>
