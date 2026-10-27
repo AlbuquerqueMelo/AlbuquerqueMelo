@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/USERNAME?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&style=flat" />
+  <img src="https://img.shields.io/github/followers/AlbuquerqueMelo?style=social" />
+  <img src="https://komarev.com/ghpvc/?AlbuquerqueMelo=AlbuquerqueMelo&style=flat" />
 </p>
 
 ---
@@ -27,10 +27,10 @@
 
 ### Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?AlbuquerqueMelo=AlbuquerqueMelo&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=USERNAME&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=USERNAME&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=USERNAME&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?AlbuquerqueMelo=AlbuquerqueMelo&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?AlbuquerqueMelo=AlbuquerqueMelo&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?AlbuquerqueMelo=AlbuquerqueMelo&theme=tokyonight" height="150" />
 </p>
