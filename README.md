@@ -16,9 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Half-Life](https://img.shields.io/badge/Half--Life-F58B00?style=for-the-badge&labelColor=000)
 ![GoldSrc](https://img.shields.io/badge/GoldSrc-FF9900?style=for-the-badge)
 ![Modding](https://img.shields.io/badge/Modding-F58B00?style=for-the-badge&logo=steam&logoColor=white)
 
