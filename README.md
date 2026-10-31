@@ -1,6 +1,11 @@
-<!-- Banner -->
+<!-- Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0a2e0a&height=200&section=header&text=Albuquerque&fontSize=58&fontColor=00FF41&fontAlignY=38&desc=Computer%20Networks%20Student&descAlignY=58&descSize=20" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=80&pause=1500&color=00FF41&center=true&vCenter=true&width=600&height=50&lines=Mello" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=550&lines=Computer+Networks+student;Linux+enthusiast;Classic+games+%26+anime+admirer" />
 </p>
 
 <p align="center">
