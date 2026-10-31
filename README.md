@@ -46,8 +46,6 @@
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 ![Sega](https://img.shields.io/badge/Sega-0089CF?style=for-the-badge&logo=sega&logoColor=white)
 
----
-
 ## Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlbuquerqueMelo&theme=tokyonight" />
