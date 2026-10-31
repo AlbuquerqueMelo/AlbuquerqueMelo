@@ -19,20 +19,8 @@
 
 **Networking**<br>
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=for-the-badge)
-![IPv4](https://img.shields.io/badge/IPv4-005571?style=for-the-badge)
-![IPv6](https://img.shields.io/badge/IPv6-005571?style=for-the-badge)
-![Subnetting](https://img.shields.io/badge/Subnetting-005571?style=for-the-badge)
-![CIDR](https://img.shields.io/badge/CIDR%2FVLSM-005571?style=for-the-badge)
-![ARP](https://img.shields.io/badge/ARP-005571?style=for-the-badge)
-![ICMP](https://img.shields.io/badge/ICMP-005571?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-0A66C2?style=for-the-badge)
-![DHCP](https://img.shields.io/badge/DHCP-0A66C2?style=for-the-badge)
-![VLAN](https://img.shields.io/badge/VLAN-444?style=for-the-badge)
-![Routing](https://img.shields.io/badge/Static_%26_Dynamic_Routing-444?style=for-the-badge)
-![OSPF](https://img.shields.io/badge/OSPF-444?style=for-the-badge)
-![BGP](https://img.shields.io/badge/BGP-444?style=for-the-badge)
-![ACL](https://img.shields.io/badge/ACLs-444?style=for-the-badge)
+![TP-Link](https://img.shields.io/badge/TP--Link-4ACBD6?style=for-the-badge&logo=tplink&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
 
 **Systems & virtualization**<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -47,16 +35,13 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Tools**<br>
-![Nmap](https://img.shields.io/badge/Nmap-004100?style=for-the-badge)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black)
 
 **Side interests**<br>
-![Manga](https://img.shields.io/badge/Manga-444?style=for-the-badge)
-![Anime](https://img.shields.io/badge/Anime-E91E63?style=for-the-badge)
-![Emulation](https://img.shields.io/badge/Emulation-444?style=for-the-badge)
+![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)
 ![Modding](https://img.shields.io/badge/Modding-F58B00?style=for-the-badge&logo=steam&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
